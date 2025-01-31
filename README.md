@@ -1,3 +1,3 @@
 # XRC Toolkit
 
-## See the [XRC Toolkit wiki](../../wiki) for more information.
+## Students and collaborators: See the [XRC Toolkit wiki](../../wiki) for package development instructions.
